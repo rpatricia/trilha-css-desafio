@@ -1,0 +1,15 @@
+#professional-challenges {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 800px;
+}
+
+#professional-challenges img {
+  margin: 2rem 0;
+  width:100%;
+  height:auto;
+}

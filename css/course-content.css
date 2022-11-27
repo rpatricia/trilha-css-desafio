@@ -1,0 +1,40 @@
+#course-content {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#course-content .modules-list {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin: 1.5rem 0;
+}
+
+#course-content .modules-list .module {
+  width: 530px;
+  max-width: 100%;
+  margin: 0 auto 1.5rem;
+  color: #fff;
+  background: var(--button);
+  border: 1px solid var(--blue);
+  border-radius: 6.25rem;
+  padding: 1rem;
+  box-shadow: inset -5px 6px 8px #000000b3;
+
+  /* Para permanecer título em 1 linha */
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+#course-content .modules-list .module span {
+  color: var(--blue);
+}
