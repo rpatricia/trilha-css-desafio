@@ -2,7 +2,7 @@
 
 
 
-[Clique aqui](https://trilha-css-desafio-01.vercel.app/ ) para acessar o resultado final da Landing Page criada a partir do desafio!
+[Clique aqui]( https://vercel.com/rpatricia/trilha-css-desafio-01) para acessar o resultado final da Landing Page criada a partir do desafio!
 
 ![image](image/image-readme.png)
 
